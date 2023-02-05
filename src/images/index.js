@@ -1,0 +1,10 @@
+export {default as arrowLightIcon} from './icon-arrow-light.svg';
+export {default as arrowDarkIcon} from './icon-arrow-dark.svg';
+export {default as closeIcon} from './icon-close.svg';
+export {default as hamburgerIcon} from './icon-hamburger.svg';
+export {default as editorDesktop} from './illustration-editor-desktop.svg';
+export {default as editorMobile} from './illustration-editor-mobile.svg';
+export {default as laptopDesktop} from './illustration-laptop-desktop.svg';
+export {default as laptopMobile} from './illustration-laptop-mobile.svg';
+export {default as phones} from './illustration-phones.svg';
+export {default as logo} from './logo.svg';
